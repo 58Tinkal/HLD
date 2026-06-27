@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![URL Shortener Architecture](architecture.png)
+![URL Shortener Architecture](images/URLshortener.png)
 
 ---
 
